@@ -50,3 +50,8 @@
     font-size: 1.5rem;
     padding-left: 10px;
   }
+@media only screen and (max-width: 600px) {
+    .download-btn.timer{
+      font-size: 12px;
+    }
+}
