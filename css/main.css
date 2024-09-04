@@ -570,11 +570,11 @@ footer .content .top{
 }
 
 .top .media-icons a:nth-child(5){
-    background: #FF0000;
+    background: #2b414d;
 }
 
 .top .media-icons a:nth-child(5):hover{
-    color: #FF0000;
+    color: #2b414d;
     background: #fff;
 }
 
